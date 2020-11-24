@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+![ahndwon's github stats](https://github-readme-stats.vercel.app/api?username=ahndwon&count_private=true&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahndwon&layout=compact)
 <!--
-**ahndwon/ahndwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jintin/Jintin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
